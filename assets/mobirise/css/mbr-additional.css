@@ -1506,33 +1506,18 @@ a {
     left: -1rem;
   }
 }
-.cid-sBWc7lb3K9 .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 1rem;
-  margin-right: .7rem;
-}
-.cid-sBWc7lb3K9 .social-row .soc-item .mbr-iconfont {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0.6rem;
-  border: 2px solid #232323;
-  transition: all 0.3s;
-  color: #232323;
-}
-.cid-sBWc7lb3K9 .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
-  color: #ffffff;
-}
 .cid-sC7VeUVkZV {
-  padding-top: 5rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
+  padding-top: 7rem;
+  padding-bottom: 0rem;
+  background-color: #232323;
+}
+.cid-sC7VeUVkZV .mbr-section-title {
+  color: #fafafa;
 }
 .cid-sBWcf6LNDg {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWcf6LNDg .mbr-iconfont {
   display: block;
@@ -1554,7 +1539,7 @@ a {
 .cid-sBWcfU2srs {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWcfU2srs .mbr-iconfont {
   display: block;
@@ -1576,7 +1561,7 @@ a {
 .cid-sBWcgx05Og {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWcgx05Og .mbr-iconfont {
   display: block;
@@ -1598,7 +1583,7 @@ a {
 .cid-sBWchtU56e {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWchtU56e .mbr-iconfont {
   display: block;
@@ -1620,7 +1605,7 @@ a {
 .cid-sC7XdJwgVa {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sC7XdJwgVa .mbr-iconfont {
   display: block;
@@ -1642,7 +1627,7 @@ a {
 .cid-sBWeaZ0o2m {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWeaZ0o2m .mbr-iconfont {
   display: block;
@@ -1664,7 +1649,7 @@ a {
 .cid-sBWeVpUSpm {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sBWeVpUSpm .mbr-iconfont {
   display: block;
