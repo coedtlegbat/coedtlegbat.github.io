@@ -718,8 +718,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -1905,7 +1903,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2611,7 +2609,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC1PdAKt9K .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3134,7 +3132,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC1RdUjB8c .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3718,7 +3716,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC1XtcUh8f .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -4485,7 +4483,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC294wJgRt .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -5069,7 +5067,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2onbqqQ3 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -5592,7 +5590,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2q3DvfzI .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -6420,7 +6418,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2zejqipS .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -7065,7 +7063,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2Fqyp8j3 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -7710,7 +7708,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2Vd0vK0i .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -8294,7 +8292,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC2Znr79nu .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -9061,7 +9059,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC38IafN35 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -9645,7 +9643,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC7OT94Utu .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -10412,7 +10410,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC7W4kew5U .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -10935,7 +10933,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC7Y0LVqI2 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -11641,7 +11639,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC82E8jCGf .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -12164,7 +12162,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC83DVmGvx .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -12809,7 +12807,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC8EM9OvaC .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -13332,7 +13330,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC8GLIhEIM .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -13855,7 +13853,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC8IGamUC9 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -14500,7 +14498,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ffffff;
 }
 .cid-sC8LulQtnX .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -14931,8 +14929,6 @@ a {
 .cid-sC8MR9Hdh5 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8MR9Hdh5 nav.navbar {
   position: fixed;
@@ -15517,8 +15513,6 @@ a {
 .cid-sC8PgIcobi {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8PgIcobi nav.navbar {
   position: fixed;
@@ -16042,8 +16036,6 @@ a {
 .cid-sC8QsF2Utt {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8QsF2Utt nav.navbar {
   position: fixed;
