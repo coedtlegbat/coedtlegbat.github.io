@@ -1167,8 +1167,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -1815,8 +1813,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -1909,7 +1905,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2523,8 +2519,6 @@ a {
 .cid-sC1PdAKt9K {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC1PdAKt9K nav.navbar {
   position: fixed;
@@ -2617,7 +2611,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC1PdAKt9K .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3048,8 +3042,6 @@ a {
 .cid-sC1RdUjB8c {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC1RdUjB8c nav.navbar {
   position: fixed;
@@ -3142,7 +3134,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC1RdUjB8c .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3634,8 +3626,6 @@ a {
 .cid-sC1XtcUh8f {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC1XtcUh8f nav.navbar {
   position: fixed;
@@ -3728,7 +3718,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC1XtcUh8f .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -4403,8 +4393,6 @@ a {
 .cid-sC294wJgRt {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC294wJgRt nav.navbar {
   position: fixed;
@@ -4497,7 +4485,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC294wJgRt .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -4989,8 +4977,6 @@ a {
 .cid-sC2onbqqQ3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC2onbqqQ3 nav.navbar {
   position: fixed;
@@ -5083,7 +5069,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC2onbqqQ3 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -5514,8 +5500,6 @@ a {
 .cid-sC2q3DvfzI {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC2q3DvfzI nav.navbar {
   position: fixed;
@@ -5608,7 +5592,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC2q3DvfzI .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -6991,8 +6975,6 @@ a {
 .cid-sC2Fqyp8j3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC2Fqyp8j3 nav.navbar {
   position: fixed;
@@ -7085,7 +7067,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC2Fqyp8j3 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -7638,8 +7620,6 @@ a {
 .cid-sC2Vd0vK0i {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC2Vd0vK0i nav.navbar {
   position: fixed;
@@ -7732,7 +7712,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC2Vd0vK0i .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -8224,8 +8204,6 @@ a {
 .cid-sC2Znr79nu {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC2Znr79nu nav.navbar {
   position: fixed;
@@ -8318,7 +8296,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC2Znr79nu .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -8975,21 +8953,6 @@ a {
 .cid-sC2ZnthiMv .mbr-section-title {
   color: #ffffff;
 }
-.cid-sC38I9YKB7 {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #9fdbf8;
-}
-.cid-sC38I9YKB7 .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sC38I9YKB7 .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 70%;
-  }
-}
 .cid-sC38IafN35 {
   z-index: 1000;
   width: 100%;
@@ -9332,10 +9295,13 @@ a {
     left: -1rem;
   }
 }
+.cid-sEY1soJKAQ {
+  background-image: url("../../../assets/images/copy-of-red-yellow-and-orange-working-men-electrician-simplified-illustration-square-laptop-sticker.gif");
+}
 .cid-sC38IazlKz {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #9fdbf8;
+  background-color: #ff8a8a;
 }
 .cid-sC38IazlKz img,
 .cid-sC38IazlKz .item-img {
@@ -9396,7 +9362,7 @@ a {
 .cid-sC38IaT54q {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #9fdbf8;
+  background-color: #ff8a8a;
 }
 .cid-sC38IaT54q img,
 .cid-sC38IaT54q .item-img {
@@ -9579,8 +9545,6 @@ a {
 .cid-sC7OT94Utu {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC7OT94Utu nav.navbar {
   position: fixed;
@@ -9673,7 +9637,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC7OT94Utu .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -10348,8 +10312,6 @@ a {
 .cid-sC7W4kew5U {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC7W4kew5U nav.navbar {
   position: fixed;
@@ -10442,7 +10404,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC7W4kew5U .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -10873,8 +10835,6 @@ a {
 .cid-sC7Y0LVqI2 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC7Y0LVqI2 nav.navbar {
   position: fixed;
@@ -10967,7 +10927,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC7Y0LVqI2 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -11581,8 +11541,6 @@ a {
 .cid-sC82E8jCGf {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC82E8jCGf nav.navbar {
   position: fixed;
@@ -11675,7 +11633,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC82E8jCGf .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -12106,8 +12064,6 @@ a {
 .cid-sC83DVmGvx {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC83DVmGvx nav.navbar {
   position: fixed;
@@ -12200,7 +12156,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC83DVmGvx .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -12753,8 +12709,6 @@ a {
 .cid-sC8EM9OvaC {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8EM9OvaC nav.navbar {
   position: fixed;
@@ -12847,7 +12801,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC8EM9OvaC .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -13278,8 +13232,6 @@ a {
 .cid-sC8GLIhEIM {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8GLIhEIM nav.navbar {
   position: fixed;
@@ -13372,7 +13324,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC8GLIhEIM .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -13803,8 +13755,6 @@ a {
 .cid-sC8IGamUC9 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8IGamUC9 nav.navbar {
   position: fixed;
@@ -13897,7 +13847,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC8IGamUC9 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -14450,8 +14400,6 @@ a {
 .cid-sC8LulQtnX {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sC8LulQtnX nav.navbar {
   position: fixed;
@@ -14544,7 +14492,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-sC8LulQtnX .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
